@@ -1,0 +1,439 @@
+.heading-prop {
+    text-align: center;
+}
+
+.first-para {
+    
+    border-style: solid;
+    border-top: solid,4px,red;
+    border-right: solid,4px,red;
+    border-bottom: solid,4px,red;
+    border-left: solid,4px,red;
+}
+
+
+#Youtube {
+    background-color: orange;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+ }
+
+ #tiktok {
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+ }
+
+#insta {
+    background-color: yellow;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#facebook {
+    background-color:lightgreen;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#twitter {
+    background-color: green;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Whatsapp {
+    background-color: lightskyblue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Reddit {
+    background-color: navy;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Pinterest {
+    background-color: indigo;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#LinkedIn {
+    background-color: magenta;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Facebooc{
+    background-color: violet;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Telegram {
+    background-color: pink;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+ #first-para {
+    border-style:dotted;
+    border-top: 4px double orange;
+    border-right: 4px double orange;
+    border-bottom: 4px double orange;
+    border-left: 4px double orange;
+ }
+
+#Electric1 {
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Car {
+    background-color: orange;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Steamtrain {
+    background-color: yellow;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Bullettrain {
+    background-color: green;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#High {
+    background-color: lightskyblue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Boat {
+    background-color: navy;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Yacht {
+    background-color: indigo;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Ferry {
+    background-color: magenta;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#plane {
+    background-color: violet;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Jet {
+    background-color: pink;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#burger {
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#pizza {
+    background-color: orange;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#taco {
+    background-color: yellow;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#fries {
+    background-color: lightgreen;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#popcorn {
+    background-color: green;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#waffles {
+    background-color: lightskyblue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#nachos {
+    background-color: navy;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#burrito {
+    background-color:indigo;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#chips {
+    background-color: magenta;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#chicken{
+    background-color: violet;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#food {
+    background-color: pink;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#Train {
+    background-color: lightgreen;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+#div1 {
+    border: 40px;
+    width: 260px;
+    height: 260px;
+    background: 
+    linear-gradient(to right,red,blue);
+    transition-duration: 10000;
+}
+
+#div1 :hover {
+    background: linear-gradient(to right, blue, magenta);
+}
+
+#contact-prop {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#back {
+    background-image: url('https://wpdean.com/wp-content/uploads/2023/10/image-2023-10-31T212140.632.jpg');
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+#text {
+    text-decoration-color: red;
+}
+
+#color {
+    text-emphasis-color: black;
+}
+
+#backT {
+    background-image: url('https://wpdean.com/wp-content/uploads/2023/10/image-2023-10-31T212817.687.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#back2 {
+    background-image: url(https://cdn.contrastly.com/wp-content/uploads/seascape-photography-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#text2 {
+    text-decoration-skip-ink: lightcoral;
+}
+
+#bac1 {
+    background-image: url(https://wpdean.com/wp-content/uploads/2023/10/image-2023-10-31T212642.327.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#space {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+}
+
+#space2 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#space3 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#space4 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;    
+}
+
+#b1 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#b2 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#b3 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#b4 {
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
